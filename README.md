@@ -30,5 +30,9 @@ A hardware converter built on Arduino that translates manual binary inputs into 
 
 1. Wire the hardware according to the pin connection table.
 2. Open the project sketch in the Arduino IDE.
-3. Select your board model and port under **Tools**.
-4. Click **Upload**.
+3. Select your board model and port under Tools.
+4. Click Upload.
+
+## Video Documentation
+
+* [Project Demonstration and Testing Videos](https://drive.google.com/drive/folders/1rS56CuNCL6RDnIjXLNyAOGdweFR4JFa0?usp=sharing)

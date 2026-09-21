@@ -2,6 +2,10 @@
 
 A hardware converter built on Arduino that translates manual binary inputs into decimal, hexadecimal, and octal outputs on a seven-segment display in real time.
 
+## Prototype
+
+![Arduino Number System Emulator Prototype](assets/numbersystem.png)
+
 ## Features
 
 * Real-time conversion across decimal, hexadecimal, and octal bases
